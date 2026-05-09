@@ -22,7 +22,7 @@ hero:
   mrLink="/blogs/"
 />
 
-<ProjectCard 
+<!-- <ProjectCard 
   title="Automation Framework Design"
   description="SDET"
   mrLink="/project2/mr/introduction"
@@ -38,6 +38,6 @@ hero:
   title="API Testing"
   description="SDET"
   mrLink="/project1/mr/api"
-/>
+/> -->
 
 </div>
