@@ -25,6 +25,7 @@ defineProps({
   padding: 20px;
   transition: 0.3s;
   background: var(--vp-c-bg-soft);
+  max-width: 500px;
 }
 
 .project-card:hover {

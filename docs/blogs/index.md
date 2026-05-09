@@ -1,4 +1,4 @@
-## Blogs
+# Blogs
 Welcome to the QA Automation blog section.
 
 This space shares practical insights from real-world automation engineering—focused on Playwright, framework design, test reliability, and scalable QA practices.

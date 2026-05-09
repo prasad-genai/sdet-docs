@@ -44,8 +44,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: "Built with VitePress",
-      copyright: "© 2026 Prasad"
+      copyright: "© 2026 Prasad S."
     }
   }
 })

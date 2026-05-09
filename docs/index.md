@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /ml-foundation/en/
+      link: /blogs/
     - theme: alt
       text: GitHub
       link: https://github.com/
